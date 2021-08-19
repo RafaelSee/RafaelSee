@@ -6,4 +6,4 @@ Olá residentes.
 
 🎭 - Pronomes Ele/Dele
 <div> <a href="https://github.com/RafaelSee"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaelSee&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<gif align="right"https://media.discordapp.net/attachments/749075312524001353/877793552053207060/monkey-style-corte.gif"> </div> 
+<img align="right" alt="Rafa-yoda" src="https://media.discordapp.net/attachments/749075312524001353/877793552053207060/monkey-style-corte.gif"> </div> ##
