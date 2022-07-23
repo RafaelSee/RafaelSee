@@ -1,9 +1,5 @@
 Olá residentes.
 
-🌎 - Estou apenas terminando a escola.
-
-🧭 - No momento não estou me aprofundando em nenhum assunto
-
 herlan is fat herlan is german herlan is ape
 ![Snake animation](https://github.com/RafaelSee/Rafaelsee/blob/output/github-contribution-grid-snake.svg)
 
