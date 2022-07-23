@@ -6,5 +6,5 @@ Olá residentes.
 
 herlan is fat herlan is german herlan is ape
 
-<div> <a href="https://github.com/RafaelSee"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaeSeel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img align="right" alt="Rafa-yoda" src=""> </div> 
+<div> <a href="https://github.com/RafaelSee"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaelSeel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img align="right" alt="Rafa-yoda" src="https://cdn.discordapp.com/attachments/749075312524001353/778867063645143060/unknown.png"> </div> 
