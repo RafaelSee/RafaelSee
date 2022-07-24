@@ -5,4 +5,4 @@ herlan is fat herlan is german herlan is ape
 
 
 </div> <a href="https://github.com/"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaelSee&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<img align="left" alt="Rafa-yoda" src=""> </div> 
+<img align="left" alt="Rafa-yoda" src="https://media.discordapp.net/attachments/672208139810111528/719287490178974129/78225381_2711521675576654_8963787002927911536_n_1-1.gif"> </div> 
